@@ -1,0 +1,23 @@
+body {
+	background-color: lightgrey;
+}
+h1 {
+	font-size: 30px;
+	color:  teal;
+}
+
+h2{
+	color: darkred;
+}
+
+h2{
+	color: green;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+	}	
